@@ -1,0 +1,65 @@
+body{
+  background-color: #090b1a;
+
+}
+
+h1{
+  color: hsl(0, 0%, 100%);
+  font-family: Inter, sans-serif;
+  font-weight: 700;
+  padding-top: 100px;
+
+}
+
+h2{
+  color: hsl(0, 0%, 100%);
+  font-family: Inter, sans-serif;
+  font-weight: 400;
+  display: inline;
+  padding-right: 75px;
+}
+
+h3{
+  color: hsla(0, 0%, 100%, 0.75);
+  font-family: Lexend Deca, sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  display: inline;
+}
+
+p{
+  color: hsla(0, 0%, 100%, 0.75);
+  font-family: Lexend Deca, sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  padding-bottom: 50px;
+}
+
+img{
+  color: hsl(277, 64%, 61%);
+  float: right;
+  height: 450px;
+  margin-left: 100px;
+}
+
+.top-container{
+  background-color: hsl(244, 38%, 16%);
+  width: 75%;
+  height: 450px;
+  margin: 100px auto;
+  padding-left: 100px;
+  margin-bottom; 100px;
+}
+
+
+.insights{
+  color: hsl(277, 64%, 61%);
+}
+
+.templates{
+  padding-left: 40px;
+}
+
+.queries{
+  padding-left: 30px;
+}
